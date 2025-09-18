@@ -20,3 +20,8 @@ Available flags:
 ## Getting started
 
 Build the project by running `make` command. You'll have a `libmy.a` library that you can use in your C projects.
+
+## Developers
+
+| [<img src="https://github.com/sephorah.png?size=85" width=85><br><sub>Séphorah ANIAMBOSSOU</sub>](https://github.com/sephorah) | [<img src="https://github.com/zakyaca.png?size=85" width=85><br><sub>Zakya CHEIKH AHMED</sub>](https://github.com/zakyaca)
+| :---: | :---: |
